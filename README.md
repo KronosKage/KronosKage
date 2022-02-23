@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @KronosKage
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I just slowly learning "Java" and other program language such "JavaScript", "HTML", "CSS"... Just for myself. Like GNU Linux <i>(Arch <3)</i>.
+
+<i>How to study? Very simple. <a href="https://github.com/EbookFoundation/free-programming-books">Click here</a>, it's in many languages. Да на русском тоже есть!</i>
+
+---
+
+<p align="center">
+  <samp>
+  <a href="https://discord.gg/RM2RBMK">
+  <img alt="Discord server" width="32px" src="https://img.icons8.com/nolan/344/discord-logo.png" />
+</a>
+<a href="https://twitter.com/KronosKage">
+  <img alt="Twitter" width="32px" src="https://img.icons8.com/nolan/344/twitter.png" />
+</a>
+<a href="https://www.reddit.com/user/KronosKage">
+  <img alt="Reddit" width="32px" src="https://img.icons8.com/nolan/344/reddit.png" />
+</a>
+  </samp>
+  
+  <br>
+ </p>
 
 <!---
-KronosKage/KronosKage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+✨ special ✨
 --->
