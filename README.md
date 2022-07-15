@@ -1,6 +1,6 @@
 I just slowly learning "Java" and other program language such "JavaScript", "HTML", "CSS"... Just for myself. Like GNU Linux <i>(Arch <3)</i>.
 
-<i>How to study? Very simple. <a href="https://github.com/EbookFoundation/free-programming-books">Click here</a>, it's in many languages. Да, на русском тоже есть!</i>
+<i>How to study? Very simple. <a href="https://github.com/EbookFoundation/free-programming-books">Click here</a>, it's in many languages.</i>
 
 ---
 
