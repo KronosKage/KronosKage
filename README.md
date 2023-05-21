@@ -19,6 +19,8 @@ I just slowly learning "Java" and other program language such "JavaScript", "HTM
   
   <br>
  </p>
+  
+---
 
 <!---
 ✨ special ✨
